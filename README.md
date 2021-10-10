@@ -2,7 +2,8 @@
 
 I'm a web developer looking to contribute to open source projects that assist the community. I work with ReactJS, Flask, Express frameworks.
 
-- I’m currently working on my portfolio project <a href="https://prodocs.herokuapp.com/splash">ProDocs</a> 🏙️
+- I’m currently working on my <a href="https://hnrywltn.github.io/">Portfolio Project</a> 🏙️
+- If you need some current coding resources, feel free to create an account on my <a href="https://prodocs.herokuapp.com/splash">newest project</a>
 - I’m looking to collaborate on open source projects to support and help people 👐 🌱
 - Based in San Francisco, CA 🌴
 - Pronouns: He/him 😄
