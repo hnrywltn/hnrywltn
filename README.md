@@ -12,4 +12,4 @@ I'm a web developer looking to contribute to open source projects that assist th
 ## Where you can find me
 - How to reach me: hnrywltn@gmail.com 📫
 - Connect with me <a href="https://www.linkedin.com/in/henry-walton-324977187/">LinkedIn</a> 💼
-- Take a look at my <a href="https://hnrywltn.github.io/">Portfolio</a> 🔗
+
